@@ -1,0 +1,9 @@
+<advancedpdftemplate scriptid="custtmpl_148_3474661_483" standard="STDTMPLEMPTY">
+  <description></description>
+  <displaysourcecode>T</displaysourcecode>
+  <isinactive>F</isinactive>
+  <preferred>T</preferred>
+  <printtype>TRANSACTION</printtype>
+  <title>TKO - Invoice Template</title>
+  <trantype>CUSTINVC</trantype>
+</advancedpdftemplate>
